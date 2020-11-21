@@ -2,17 +2,17 @@
 "Version":2.0,
 "Version_list":[
 {
-"name":"1.16.40 x64",
-"version": 1.1640,
-"download_link":"https://github.com/tinedpakgamer/mc-versions/raw/main/1.16.4(64)/main.json"
+"Name":"1.16.40 x64",
+"ID": 1.1640,
+"Download_link":"https://github.com/tinedpakgamer/mc-versions/raw/main/1.16.4(64)/main.json"
 
 
 
 },
 {
-"name":"1.16.40 x86",
-"version": 1.1640,
-"download_link":"https://github.com/tinedpakgamer/mc-versions/raw/main/1.16.4(86)/main.json"
+"Name":"1.16.40 x86",
+"ID": 1.1640,
+"Download_link":"https://github.com/tinedpakgamer/mc-versions/raw/main/1.16.4(86)/main.json"
 
 
 
